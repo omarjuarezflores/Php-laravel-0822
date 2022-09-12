@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/app/Http/Controllers/EmpleadoController.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/app/DatoContacto.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/app/User.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/app/Empleado.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/app/Http/Controllers/DatoContactoController.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/database/migrations/2022_09_01_060005_create_empleado_table.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/database/migrations/2022_09_07_142234_dato_contacto_migrates.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/app/Http/Middleware/EditDeleteByEmail.php</file>
+            <file>file:/C:/wamp64/www/curso_laravel_0822/app/Http/Controllers/HomeController.php</file>
+        </group>
+    </open-files>
+</project-private>
